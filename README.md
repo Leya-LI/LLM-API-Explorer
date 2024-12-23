@@ -11,8 +11,8 @@ LLM-API-Explorer is a small but mighty project that aims to play around with som
 
 ## Key Features
 
-- **Chat GPT API Integration**: Dive into the world of text classification with the ChatGPT API on the Kaggle SMS Spam Collection Dataset. It's like sorting your spam emails, but with AI!
-- **Qwen API Integration**: Get your dialogue on with Qwen API as we chat through Single-Round Dialogue, Multi-Round Dialogue, and Stream Output Demonstrations. It's like having a conversation with a smart friend who never runs out of interesting things to say!
+- **Chat GPT API Playtime**: Dive into the world of text classification with the ChatGPT API on the Kaggle SMS Spam Collection Dataset. It's like sorting your spam emails, but with AI!
+- **Qwen API Adventures**: Get your dialogue on with Qwen API as we chat through Single-Round Dialogue, Multi-Round Dialogue, and Stream Output Demonstrations. It's like having a conversation with a smart friend who never runs out of interesting things to say!
 
 ## Getting Started
 
