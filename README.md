@@ -1,7 +1,3 @@
-当然可以，以下是为你的项目LLM-API-Explorer编写的GitHub README文档草稿：
-
----
-
 # LLM-API-Explorer
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Leya-LI/LLM-API-Explorer/blob/main/LICENSE)
