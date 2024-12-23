@@ -40,7 +40,7 @@ To get started with LLM-API-Explorer, follow these steps:
 This notebook demonstrates how to use the ChatGPT API to classify messages from the Kaggle SMS Spam Collection Dataset. To run this notebook:
 
 ```python
-jupyter notebook Chat GPT_API.ipynb
+jupyter notebook ChatGPT_API_Explorer.ipynb
 ```
 
 ### Qwen.ipynb
@@ -48,7 +48,7 @@ jupyter notebook Chat GPT_API.ipynb
 This notebook showcases the use of Qwen API for different dialogue scenarios. To run this notebook:
 
 ```python
-jupyter notebook Qwen.ipynb
+jupyter notebook Qwen_API_Explorer.ipynb
 ```
 
 ## Contributing
@@ -58,10 +58,6 @@ Contributions are welcome! For major changes, please open an issue first to disc
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Leya-LI/LLM-API-Explorer/blob/main/LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to the creators of ChatGPT and Qwen APIs for providing powerful tools for language model interactions.
 
 ---
 
