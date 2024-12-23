@@ -63,7 +63,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 I would like to express my gratitude to the following sources for their valuable contributions to this project:
 - **Text Classification with ChatGPT in Python using OpenAI API** by Usman Malik, which provided essential code snippets and insights for our project. The article can be found at [wellsr.com](https://wellsr.com/python/using-chatgpt-for-text-classification-in-python/).
-- 
 ---
 
 
