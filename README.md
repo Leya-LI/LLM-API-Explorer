@@ -35,7 +35,7 @@ To get started with LLM-API-Explorer, follow these steps:
 
 ## Usage
 
-### Chat GPT_API.ipynb
+### ChatGPT_API_Explorer.ipynb
 
 This notebook demonstrates how to use the ChatGPT API to classify messages from the Kaggle SMS Spam Collection Dataset. To run this notebook:
 
@@ -43,7 +43,7 @@ This notebook demonstrates how to use the ChatGPT API to classify messages from 
 jupyter notebook ChatGPT_API_Explorer.ipynb
 ```
 
-### Qwen.ipynb
+### Qwen_API_Explorer.ipynb
 
 This notebook showcases the use of Qwen API for different dialogue scenarios. To run this notebook:
 
