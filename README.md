@@ -7,7 +7,7 @@
 
 ## Overview
 
-LLM-API-Explorer is a small but mighty project that aims to play around with some of the cool Large Language Models (LLMs) out there, like GPT from OpenAI and Llama. It's a beginner-friendly exploration into the world of LLMs through API calls. This project is all about getting hands-on experience with both English and non-English LLMs, perfect for those who are just dipping their toes into the fascinating world of AI language models.
+LLM-API-Explorer is a small but mighty project that aims to play around with some of the cool Large Language Models (LLMs) out there, like GPT from OpenAI and Qwen. It's a beginner-friendly exploration into the world of LLMs through API calls. This project is all about getting hands-on experience with both English and non-English LLMs, perfect for those who are just dipping their toes into the fascinating world of AI language models.
 
 ## Key Features
 
@@ -59,10 +59,9 @@ Contributions are welcome! For major changes, please open an issue first to disc
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Leya-LI/LLM-API-Explorer/blob/main/LICENSE) file for details.
 
-## Acknowledgements
+## Reference
 
-I would like to express my gratitude to the following sources for their valuable contributions to this project:
-- **Text Classification with ChatGPT in Python using OpenAI API** by Usman Malik, which provided essential code snippets and insights for my project. The article can be found at [wellsr.com](https://wellsr.com/python/using-chatgpt-for-text-classification-in-python/).
+- **Text Classification with ChatGPT in Python using OpenAI API** (https://wellsr.com/python/using-chatgpt-for-text-classification-in-python/).
 ---
 
 
